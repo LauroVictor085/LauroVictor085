@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LauroVictor085
-- 👀 I’m interested in a programar novas linguagens 
+- 👋 Oi, eu sou @LauroVictor085
+- 👀 estou interessado a programar novas linguagens 
 - 👍 meu email de contato laurovictor035@gmail.com
 - 🌱 estou aprendendo a programar recentemente linguagens e javascript e scratch
 - 🎮 Nick fepe_zZ na psn add lá![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
